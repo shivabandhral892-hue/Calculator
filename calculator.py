@@ -32,4 +32,4 @@ elif choice == "4":
         print("Cannot be divided by zero")
 
 else:
-    print("Invald input")
+    print("Invald input ⊘")
